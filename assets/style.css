@@ -1,0 +1,20 @@
+
+body {
+    background: teal;
+}
+
+div {
+    background: goldenrod;
+    border-style: solid;
+}
+p {
+    color: white;
+}
+.red-text {
+    color: red;
+}
+#food-list {
+    font-size: 40px;
+    color: rgb(242, 126, 215);
+}
+
